@@ -1,3 +1,4 @@
+# tech stack showcasing
 This website is created to showcase my
 1. skills
 2. technologies which i have worked on 
